@@ -1,4 +1,6 @@
-Copy of https://github.com/ros2/examples/tree/humble/rclpy/topics/minimal_publisher as separate repo
+Package for [Robotics for Programmers](https://www.manning.com/books/robotics-for-programmers) book providing a copy of https://github.com/ros2/examples/tree/humble/rclpy/topics/minimal_publisher as separate repo.
+
+Used in chapter 4.
 
 # Minimal "publisher" cookbook recipes
 
